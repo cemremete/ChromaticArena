@@ -251,21 +251,31 @@ Each art movement has specific scoring criteria:
 
 ---
 
-## Screenshots
-
+## 📸 Screenshots
 
 ### 🏠 Landing Page
 ![Landing Page](./screenshots/01-landing-page.png)
 <p><i>Modern, dark-themed landing page with art movement statistics</i></p>
 
-### Atelier (Canvas)
-![Atelier](https://via.placeholder.com/800x500/FF6B6B/FFFFFF?text=Art+Creation+Canvas)
+---
 
-### Gallery
-![Gallery](https://via.placeholder.com/800x500/FFE66D/000000?text=Artwork+Gallery)
+### 📊 Dashboard
+![Dashboard](./screenshots/02-dashboard.png)
+<p><i>Track your rank, level, coins, and artworks with beautiful stats cards</i></p>
 
-### Leaderboard
-![Leaderboard](https://via.placeholder.com/800x500/A8E6CF/000000?text=Global+Leaderboard)
+---
+
+### 🎨 Art Movement Selection
+![Movement Selection](./screenshots/03-movement-selection.png)
+<p><i>Choose from 5 iconic art movements - each with unique rules and difficulty levels</i></p>
+
+---
+
+### 🖼️ Gallery
+![Gallery](./screenshots/04-gallery.png)
+<p><i>Your collection of masterpieces with stats tracking</i></p>
+
+
 
 ---
 
