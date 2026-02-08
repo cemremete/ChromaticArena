@@ -1,10 +1,6 @@
 #  Chromatic Arena
 
-**Chromatic Arena** is a gamified art education platform where users learn about iconic art movements by creating artworks and competing on global leaderboards. Master the principles of Minimalism, Pop Art, Cubism, Surrealism, and Impression<<<<<<< HEAD
-=======
->>>>>>> c0adb15ism while earning points, unlocking achievements, and climbing the ranks!
-
----
+**Chromatic Arena** is a gamified art education platform where users learn about iconic art movements by creating artworks and competing on global leaderboards. Master the principles of Minimalism, Pop Art, Cubism, Surrealism, and Impressionism while earning points, unlocking achievements, and climbing the ranks!
 
 ## ✨ Features
 
