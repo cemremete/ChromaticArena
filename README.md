@@ -251,23 +251,55 @@ Each art movement has specific scoring criteria:
 
 ---
 
-## Screenshots
+## 📸 Application Preview
 
+<div align="center">
 
-### 🏠 Landing Page
-![Landing Page](./screenshots/01-landing-page.png)
-<p><i>Modern, dark-themed landing page with art movement statistics</i></p>
+### Main Features Showcase
 
-### Atelier (Canvas)
-![Atelier](https://via.placeholder.com/800x500/FF6B6B/FFFFFF?text=Art+Creation+Canvas)
+<table>
+  <tr>
+    <td>
+      <h3>🏠 Landing Page</h3>
+      <img src="./chromatic-arena/screenshots/01-landing-page.png" alt="Landing Page"/>
+      <p>Engaging landing page with statistics and clear call-to-action buttons</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📊 User Dashboard</h3>
+      <img src="./chromatic-arena/screenshots/02-dashboard.png" alt="Dashboard"/>
+      <p>Comprehensive dashboard showing rank, level, coins, artworks, and recent activity</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🎨 Art Movement Selection</h3>
+      <img src="./chromatic-arena/screenshots/03-movement-selection.png" alt="Movement Selection"/>
+      <p>Interactive cards for each art movement with difficulty indicators and unlock requirements</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🖼️ Personal Gallery</h3>
+      <img src="./chromatic-arena/screenshots/04-gallery.png" alt="Gallery"/>
+      <p>Beautiful gallery view with statistics: total artworks, average score, likes, and views</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🏆 Global Leaderboard</h3>
+      <img src="./chromatic-arena/screenshots/05-leaderboard.png" alt="Leaderboard"/>
+      <p>Competitive ranking system with podium display for top 3 artists</p>
+    </td>
+  </tr>
+</table>
 
-### Gallery
-![Gallery](https://via.placeholder.com/800x500/FFE66D/000000?text=Artwork+Gallery)
-
-### Leaderboard
-![Leaderboard](https://via.placeholder.com/800x500/A8E6CF/000000?text=Global+Leaderboard)
+</div>
 
 ---
+
+
 
 ## 🔐 Environment Variables
 
