@@ -253,8 +253,10 @@ Each art movement has specific scoring criteria:
 
 ## Screenshots
 
-### Landing Page
-![Landing Page](https://via.placeholder.com/800x500/4ECDC4/FFFFFF?text=Landing+Page)
+
+### 🏠 Landing Page
+![Landing Page](./screenshots/01-landing-page.png)
+<p><i>Modern, dark-themed landing page with art movement statistics</i></p>
 
 ### Atelier (Canvas)
 ![Atelier](https://via.placeholder.com/800x500/FF6B6B/FFFFFF?text=Art+Creation+Canvas)
